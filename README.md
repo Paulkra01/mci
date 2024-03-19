@@ -21,7 +21,8 @@
 - Patient:in pedalliert langsam weiter
 
 ## Standardablauf
-- Patient:in 
+- Diagnostiker:in bricht Test ab
+- Diagnostiker ändert Modus des Ergometers und versorgt Patient:in
 
 ## alternative Ablaufschritte:
 - Als Diagnostiker:in möchte ich jederzeit in der Lage sein, wegen beispielsweise gesundheitlicher Bedenken den Leistungstest manuel abzubrechen.
